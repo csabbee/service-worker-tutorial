@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/csabbee/service-worker-tutorial/issues"
   },
-  "homepage": "https://github.com/csabbee/service-worker-tutorial#readme"
+  "homepage": "https://github.com/csabbee/service-worker-tutorial#readme",
+  "dependencies": {
+    "sw-toolbox": "^3.6.0"
+  }
 }
