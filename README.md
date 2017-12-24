@@ -1,2 +1,2 @@
 # Service Worker
-This repo is just for playing arounf with service workers
+This repo is just for playing around with service workers
